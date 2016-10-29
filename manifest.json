@@ -1,0 +1,1 @@
+{"app":{"id":"7e392339.1672ac","name":"sentiment","description":"twitter sentiment test","tags":"tweet,twitter,sentiment"},"packages":[{"id":"87ab6c0c.ed0e4","name":"new package","purpose":"testing sentiment lib","install":"optional","risk":"","benefits":"shows this thing working"}],"allowed-combinations":[]}
